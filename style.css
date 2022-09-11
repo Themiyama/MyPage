@@ -24,6 +24,14 @@ img{
 }
 
 
+#align {
+
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+}
+
 #tensp{
    width:400px;
    height:270px;
